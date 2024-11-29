@@ -1,0 +1,3 @@
+[submodule "sub1"]
+	path = sub1
+	url = git@gitcode.com:yao_20241125/submodule_sub1.git
